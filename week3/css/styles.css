@@ -1,0 +1,29 @@
+body {
+  font-size: 16px;
+  color: white;
+  background-color: #61122F;
+  font-family: 'Oxygen', sans-serif; 
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #F6B319;
+  border-radius: 0;
+  border: 0;
+}
+
+.container {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#logo-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: center;
+  margin: 10px 15px 10px 0;
+  border: solid black 1px;
+  border-radius: 20px;
+}
+
